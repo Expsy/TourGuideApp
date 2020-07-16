@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">TourGuideApp</string>
+
+
+    <string name="name">name</string>
+    <string name="address">address</string>
+    <string name="image">image</string>
+    <string name="hotel1">Dedeman</string>
+    <string name="hotel2">Hilton</string>
+    <string name="hotel3">Armada</string>
+    <string name="hotel_adress1">Besiktas</string>
+    <string name="hotel_adress2">Kadikoy</string>
+    <string name="hotel_adress3">Fatih</string>
+    <string name="mall1">Forum Istanbul</string>
+    <string name="mall2">Olimpa AVM</string>
+    <string name="mall3">Meydan Istanbul</string>
+    <string name="mall_address1">Bayram Pasa</string>
+    <string name="mall_address2">Basaksehir</string>
+    <string name="mall_address3">Dudullu</string>
+    <string name="park1">Fenerbahce</string>
+    <string name="park2">Haydar Aliyev</string>
+    <string name="park3">Yildiz</string>
+    <string name="park_address1">Kadikoy</string>
+    <string name="park_address2">Fatih</string>
+    <string name="park_address3">Besiktas</string>
+    <string name="restaurant1">Genc Bufe</string>
+    <string name="restaurant2">1924 İstanbul</string>
+    <string name="restaurant3">Peninsula</string>
+    <string name="restaurant_address1">Kadikoy</string>
+    <string name="restaurant_address2">Beyoglu</string>
+    <string name="restaurant_address3">Beyoglu</string>
+    <string name="restaurants_title">CAFES</string>
+    <string name="shopping_malls_title">SHOPPING MALLS</string>
+    <string name="hotels_title">HOTELS</string>
+    <string name="parks_title">PARKS</string>
+</resources>
